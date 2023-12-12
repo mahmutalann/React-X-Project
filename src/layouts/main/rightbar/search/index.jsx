@@ -31,7 +31,7 @@ export default function Search() {
 				</div>
 				<input
 					type="text"
-					placeholder="Ara"
+					placeholder="Search"
 					className="w-full h-full bg-transparent placeholder-[#71767b] rounded-full outline-none pl-[56px] text-[15px]"
 					value={query}
 					onFocus={() => setFocus(true)}
