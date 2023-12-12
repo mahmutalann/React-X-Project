@@ -181,3 +181,66 @@ export const mainMenu = [
 		}
 	}
 ]
+
+export const topics = [
+	{
+		title: 'Agenda in Turkey ',
+		topic: {
+			type: 'tag',
+			value: 'Travel'
+		}
+	},
+	{
+		title: 'Türkiye tarihinde gündemde',
+		topic: {
+			type: 'query',
+			value: 'Starlink'
+		},
+		postCount: 15640
+	},
+	{
+		title: 'Agenda in Turkey',
+		topic: {
+			type: 'tag',
+			value: 'Travel'
+		}
+	},
+	{
+		title: 'Agenda in Turkey',
+		topic: {
+			type: 'query',
+			value: 'Starlink'
+		},
+		postCount: 15640
+	},
+	{
+		title: 'Agenda in Turkey',
+		topic: {
+			type: 'tag',
+			value: 'Travel'
+		}
+	},
+	{
+		title: 'Agenda in Turkey',
+		topic: {
+			type: 'query',
+			value: 'Starlink'
+		},
+		postCount: 15640
+	},
+	{
+		title: 'Agenda in Turkey',
+		topic: {
+			type: 'tag',
+			value: 'Travel'
+		}
+	},
+	{
+		title: 'Agenda in Turkey',
+		topic: {
+			type: 'query',
+			value: 'Starlink'
+		},
+		postCount: 15640
+	}
+]
